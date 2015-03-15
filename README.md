@@ -17,23 +17,23 @@ This software is free and open source software licensed under the terms of GPLv3
 
 * PyQt
 
-    - `python-qt4` (Ubuntu/Mint/Debian), `python-pyqt4` (Arch Linux)
+    - `python-qt4`, `pyqt4-dev-tools` (Ubuntu/Mint/Debian); `python-pyqt4` (Arch Linux)
 
 * lxml
 
-    - `python-lxml` (Ubuntu/Mint/Debian), `python-lxml` (Arch Linux)
+    - `python-lxml` (Ubuntu/Mint/Debian); `python-lxml` (Arch Linux)
 
 * Whoosh 2.x
 
-    - `python-whoosh` (Ubuntu/Mint/Debian), `python-whoosh` in AUR (Arch Linux)
+    - `python-whoosh` (Ubuntu/Mint/Debian); `python-whoosh` in AUR (Arch Linux)
 
 * [On Linux] Python bindings for Gstreamer
 
-    - `python-gst0.10` (Ubuntu/Mint/Debian), `gstreamer0.10-python` (Arch Linux)
+    - `python-gst0.10` (Ubuntu/Mint/Debian); `gstreamer0.10-python` (Arch Linux)
 
 * [On Linux] Gstreamer plugins for MP3 audio playback
 
-    - `gstreamer0.10-plugins-good` & `gstreamer0.10-plugins-ugly` (Ubuntu/Mint/Debian), `gstreamer0.10-good-plugins` & `gstreamer0.10-ugly-plugins` (Arch Linux)
+    - `gstreamer0.10-plugins-good`, `gstreamer0.10-plugins-ugly` (Ubuntu/Mint/Debian); `gstreamer0.10-good-plugins`, `gstreamer0.10-ugly-plugins` (Arch Linux)
 
 
 ##Installation

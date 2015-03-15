@@ -42,7 +42,7 @@ This software is free and open source software licensed under the terms of GPLv3
 
 ####Packages
 
-For Arch Linux, two packages [ldoce5viewer](https://aur.archlinux.org/packages/ldoce5viewer/) and [ldoce5viewer-git](https://aur.archlinux.org/packages/ldoce5viewer-git/) exist on AUR.
+For Arch Linux, two packages [ldoce5viewer](https://aur.archlinux.org/packages/ldoce5viewer/) and [ldoce5viewer-git](https://aur.archlinux.org/packages/ldoce5viewer-git/) exist on AUR.  Currently no package is provided for Ubuntu/Mint/Debian.  But [CheckInstall](http://asic-linux.com.mx/~izto/checkinstall/) will do.
 
 ####Manually
 
